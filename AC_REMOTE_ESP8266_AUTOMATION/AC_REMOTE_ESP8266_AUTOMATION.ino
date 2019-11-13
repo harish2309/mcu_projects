@@ -10,8 +10,8 @@ BlynkTimer timer;
 
 
 char auth[] = "PHIXeZpZ2Vovn_UuiCmpRAwLABaFkq4e";
-char ssid[] = "H0D0R_v3.1";
-char pass[] = "JourN3y!";
+char ssid[] = "xxxx;
+char pass[] = "xxxx!";
 const uint16_t kIrLed = 4;  // ESP8266 GPIO pin to use. Recommended: 4 (D2).
 
 IRsend irsend(kIrLed);  // Set the GPIO to be used to sending the message.

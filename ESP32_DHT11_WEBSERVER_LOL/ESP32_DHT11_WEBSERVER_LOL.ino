@@ -6,8 +6,8 @@
 
 
 // Replace with your network credentials
-const char* ssid = "H0D0R_v3.1";
-const char* password = "JourN3y!";
+const char* ssid = "xxxx";
+const char* password = "xxxx!";
 
 #define DHTPIN 17     // Digital pin connected to the DHT sensor
 

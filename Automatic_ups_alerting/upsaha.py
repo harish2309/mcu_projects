@@ -31,7 +31,8 @@ while True:
         badcnt=badcnt+1
         
     else:
-        print("WE ARE GOOD")
+        badcnt=1
+        print("WE ARE GOOD")        
         if(cnt % 1800 == 0):
             message = client.messages.create( 
                                   from_='whatsapp:+14155238886',  
